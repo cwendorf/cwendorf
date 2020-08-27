@@ -4,11 +4,6 @@
 
 I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP). I also now serve as the Assistant Dean for the School of Behavioral and Social Sciences.
 
-- **Ph.D.:** Wayne State University
-- **M.A.:** Wayne State University
-- **B.S.:** University of Wisconsin Oshkosh
-- **A.A.S.:** University of Wisconsin - Marathon County
-
 ### My Professional Interests
 
 Broadly speaking, I am interested in social and cultural psychology, statistical methods, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
