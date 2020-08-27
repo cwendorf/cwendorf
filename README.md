@@ -1,4 +1,4 @@
-## <div style="color: purple;">MY PROFILE</div>
+## MY PROFILE
 
 ### My Professional Background
 
