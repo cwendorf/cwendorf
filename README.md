@@ -12,10 +12,6 @@ Broadly speaking, I am interested in social and cultural psychology, statistical
 - **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling.
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development.
 
-### Current Projects on GitHub
-
-
-
 <!--
 **cwendorf/cwendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
