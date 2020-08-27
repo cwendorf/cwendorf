@@ -1,6 +1,4 @@
-<div style="color: purple;">
-## MY PROFILE
-</div>
+## <div style="color: purple;">MY PROFILE</div>
 
 ### My Professional Background
 
