@@ -12,6 +12,8 @@ I am interested in statistical methods quite generally. Currently, I focus on th
 ![](https://img.shields.io/badge/SOFTWARE-SPSS-informational?style=flat-square)
 ![](https://img.shields.io/badge/SOFTWARE-EXCEL-informational?style=flat-square)
 
+[![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
+
 <!--
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
