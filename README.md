@@ -6,11 +6,11 @@ I am interested in statistical methods quite generally. Currently, I focus on th
 - **Estimation Statistics:** An emphasis on confidence intervals and effect sizes as a framework for improving statistical decision making.
 - **General Statistical Modeling:** An interest in structural equation modeling, multilevel modeling, and multiple regression as ways of understanding complex data.
 
-![](https://img.shields.io/badge/CODE-R-informational?style=flat&logo=<LOGO_NAME>)
-![](https://img.shields.io/badge/SOFTWARE-jamovi-informational?style=flat&logo=<LOGO_NAME>)
-![](https://img.shields.io/badge/SOFTWARE-JASP-informational?style=flat&logo=<LOGO_NAME>)
-![](https://img.shields.io/badge/SOFTWARE-SPSS-informational?style=flat&logo=<LOGO_NAME>)
-![](https://img.shields.io/badge/SOFTWARE-EXCEL-informational?style=flat&logo=<LOGO_NAME>)
+![](https://img.shields.io/badge/CODE-R-informational?style=flat&logo=<R>?link=http://www.r-project.org/&link=http://www.r-project.org/)
+![](https://img.shields.io/badge/SOFTWARE-jamovi-informational?style=flat&logo=<jamovi>)
+![](https://img.shields.io/badge/SOFTWARE-JASP-informational?style=flat&logo=<JASP>)
+![](https://img.shields.io/badge/SOFTWARE-SPSS-informational?style=flat&logo=<SPSS>)
+![](https://img.shields.io/badge/SOFTWARE-EXCEL-informational?style=flat&logo=<Excel>)
 
 <!--
 
