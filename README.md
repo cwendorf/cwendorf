@@ -7,20 +7,16 @@ I am interested in statistical methods quite generally. Currently, I focus on th
 - **General Statistical Modeling:** An interest in structural equation modeling, multilevel modeling, and multiple regression as ways of understanding complex data.
 
 [![](https://img.shields.io/badge/CODE-R-informational?style=flat-square)](https://www.r-project.org)
-![](https://img.shields.io/badge/SOFTWARE-jamovi-informational?style=flat-square)
-![](https://img.shields.io/badge/SOFTWARE-JASP-informational?style=flat-square)
-![](https://img.shields.io/badge/SOFTWARE-SPSS-informational?style=flat-square)
-![](https://img.shields.io/badge/SOFTWARE-EXCEL-informational?style=flat-square)
-
-
+[![](https://img.shields.io/badge/SOFTWARE-jamovi-informational?style=flat-square)](https://www.jamovi.org/)
+[![](https://img.shields.io/badge/SOFTWARE-JASP-informational?style=flat-square)](https://jasp-stats.org/)
+[![](https://img.shields.io/badge/SOFTWARE-SPSS-informational?style=flat-square)](https://www.ibm.com/products/spss-statistics)
+[![](https://img.shields.io/badge/SOFTWARE-EXCEL-informational?style=flat-square)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 <!--
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-
-[![Bitbucket issues](https://img.shields.io/bitbucket/issues/lbesson/bin.svg)](https://Bitbucket.org/lbesson/bin/issues/)
 
 -->
 
