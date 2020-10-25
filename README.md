@@ -1,4 +1,6 @@
+<div style="color: blue;">
 ## STATISTICS RESOURCES
+</div>
 
 I am interested in statistical methods quite generally. Currently, I focus on the development of tools to advance three overlapping areas in statistical methods:
 
