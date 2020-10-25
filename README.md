@@ -1,16 +1,26 @@
-## MY PROFILE
+## STATISTICS RESOURCES
 
-### My Professional Background
+I am interested in statistical methods quite generally. Currently, I focus on the development of tools to advance three overlapping areas in statistical methods:
 
-I am a Professor of Psychology at the University of Wisconsin - Stevens Point (UWSP). I also now serve as the Assistant Dean for the School of Behavioral and Social Sciences.
+- **Statistics Education:** A focus on educating students and the public about basic and advanced statistical procedures.
+- **Estimation Statistics:** An emphasis on confidence intervals and effect sizes as a framework for improving statistical decision making.
+- **General Statistical Modeling:** An interest in structural equation modeling, multilevel modeling, and multiple regression as ways of understanding complex data.
 
-### My Professional Interests
+---
 
-Broadly speaking, I am interested in social and cultural psychology, statistical methods, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
+![](https://img.shields.io/badge/CODE-R-informational?style=flat&logo=<LOGO_NAME>)
+![](https://img.shields.io/badge/SOFTWARE-jamovi-informational?style=flat&logo=<LOGO_NAME>)
+![](https://img.shields.io/badge/SOFTWARE-JASP-informational?style=flat&logo=<LOGO_NAME>)
+![](https://img.shields.io/badge/SOFTWARE-SPSS-informational?style=flat&logo=<LOGO_NAME>)
+![](https://img.shields.io/badge/SOFTWARE-EXCEL-informational?style=flat&logo=<LOGO_NAME>)
 
-- **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology.
-- **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling.
-- **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development.
+<!--
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+-->
 
 <!--
 **cwendorf/cwendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
