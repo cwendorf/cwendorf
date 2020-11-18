@@ -1,9 +1,9 @@
 ## STATISTICS RESOURCES
 
-[![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
-[![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=flat-square&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
-[![ResearchGate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf) 
-[![Google Scholar](https://img.shields.io/badge/G-Google%20Scholar-informational?style=flat-square&colorB=616161&labelColor=blue)](https://scholar.google.com/citations?user=82laTswAAAAJ)
+[![GitHub](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
+[![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=for-the-badge&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
+[![ResearchGate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=for-the-badge&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf) 
+[![Google Scholar](https://img.shields.io/badge/G-Google%20Scholar-informational?style=for-the-badge&colorB=616161&labelColor=blue)](https://scholar.google.com/citations?user=82laTswAAAAJ)
 
 I am interested in statistical methods quite generally. Currently, I focus on the development of tools to advance three overlapping areas in statistical methods:
 
