@@ -1,5 +1,8 @@
 ## STATISTICS RESOURCES
 
+[![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf) 
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar.svg?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?user=82laTswAAAAJ)
+
 I am interested in statistical methods quite generally. Currently, I focus on the development of tools to advance three overlapping areas in statistical methods:
 
 - **Statistics Education:** A focus on educating students and the public about basic and advanced statistical procedures.
