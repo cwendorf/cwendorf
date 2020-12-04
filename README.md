@@ -1,5 +1,7 @@
 ## STATISTICS RESOURCES
 
+[![Wendorf](https://img.shields.io/badge/-CW-Wendorf-informational?style=for-the-badge&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
+
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
 [![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=for-the-badge&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
 [![ResearchGate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=for-the-badge&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf) 
