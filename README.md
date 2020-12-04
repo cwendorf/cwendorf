@@ -1,6 +1,6 @@
 ## STATISTICS RESOURCES
 
-[![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=for-the-badge&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
+[![Open Science](https://img.shields.io/badge/CW-Wendorf-informational?style=for-the-badge&colorB=616161&labelColor=navy)](https:/cwendorf.github.io)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
 [![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=for-the-badge&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
