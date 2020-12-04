@@ -1,4 +1,4 @@
-[![Open Science](https://img.shields.io/badge/CW-Wendorf-informational?style=for-the-badge&colorB=616161&labelColor=541664)](https:/cwendorf.github.io)
+[![Open Science](https://img.shields.io/badge/UWSP-Wendorf-informational?style=for-the-badge&colorB=616161&labelColor=541664)](https:/cwendorf.github.io)
 
 ## STATISTICS RESOURCES
 
