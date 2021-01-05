@@ -6,11 +6,11 @@
 [![ResearchGate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=for-the-badge&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf) 
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-informational?style=for-the-badge&logo=google-scholar&logoColor=white&colorB=616161&labelColor=blue)](https://scholar.google.com/citations?user=82laTswAAAAJ)
 
-I am interested in statistical methods quite generally. Currently, I focus on the development of tools to advance three overlapping areas in statistical methods:
+I am interested in statistical methods quite generally. Currently, I focus on the development of tools in three overlapping areas in statistical methods:
 
 - **Statistics Education:** Educating students and the public about basic statistical procedures.
-- **Estimation Statistics:** Using confidence intervals and effect sizes as a framework for decision making.
-- **Statistical Modeling:** Advancing structural equation, multilevel, and regression models for complex data.
+- **Estimation Statistics:** Promoting confidence intervals and effect sizes as a framework for decision making.
+- **Statistical Modeling:** Applying structural equation, multilevel, and regression models to complex data.
 
 <!--
 **cwendorf/cwendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
