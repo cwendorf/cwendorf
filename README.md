@@ -1,7 +1,7 @@
 [![UWSP](https://img.shields.io/badge/UWSP-Psychology-informational?style=flat-square&color=616161&labelColor=541664)](https://www.uwsp.edu/psych/Pages/Bios/cWendorf.aspx)
-[![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=flat-square&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
-[![ResearchGate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf) 
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-informational?style=flat-square&logo=google-scholar&logoColor=white&colorB=616161&labelColor=blue)](https://scholar.google.com/citations?user=82laTswAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Craig_Wendorf)
+[![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=flat-square&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
 
 ## STATISTICS RESOURCES
