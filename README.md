@@ -9,9 +9,9 @@
 
 I am interested in statistical methods quite generally. Currently, I focus on the development of tools in three overlapping areas in statistical methods:
 
-- **Statistics Education:** Educating students and the public about basic statistical procedures.
-- **Estimation Statistics:** Promoting confidence intervals and effect sizes as a framework for decision making.
-- **Statistical Modeling:** Applying structural equation, multilevel, and regression models to complex data.
+- **Statistics Education:** Educating students and the public about basic statistical procedures
+- **Estimation Statistics:** Promoting confidence intervals and effect sizes as a framework for decision making
+- **Statistical Modeling:** Applying structural equation, multilevel, and regression models to complex data
 
 <!--
 **cwendorf/cwendorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
