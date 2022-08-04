@@ -4,7 +4,7 @@
 [![Open Science](https://img.shields.io/badge/OSF-Open%20Science-informational?style=flat-square&colorB=616161&labelColor=navy)](https://osf.io/ffp4g/)
 [![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat-square&logo=github&logoColor=white&colorB=616161&labelColor=black)](https://github.com/cwendorf)
 
-## STATISTICS RESOURCES
+## MY STATISTICS RESOURCES
 
 I am interested in statistical methods quite generally. Currently, I focus on the development of tools in three overlapping areas in statistical methods:
 
