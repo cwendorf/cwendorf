@@ -12,6 +12,10 @@ I am interested in statistical methods quite generally. Currently, I focus on th
 - **Estimation Statistics:** Promoting confidence intervals and effect sizes as a framework for decision making
 - **Data Visualization:** Adapting graphing procedures to better represent patterns in data
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=EASI)](https://github.com/cwendorf/EASI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=Sourcebook)](https://github.com/cwendorf/Sourcebook)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=BASE)](https://github.com/cwendorf/BASE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=plotDistributions)](https://github.com/cwendorf/plotDistributions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=CALM)](https://github.com/cwendorf/CALM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=polyplot2)](https://github.com/cwendorf/polyplot2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cwendorf&repo=simplePipes)](https://github.com/cwendorf/simplePipes)
