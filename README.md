@@ -1,7 +1,3 @@
-[![HTML](https://img.shields.io/badge/HTML-purple?logo=readme&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![R](https://img.shields.io/badge/R-blue?logo=r&style=for-the-badge)](https://www.r-project.org/)
-[![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-
 ## MY STATISTICS RESEARCH
 
 I am interested in statistical methods quite generally. Currently, I focus on three overlapping areas of statistical methodology:
@@ -17,6 +13,8 @@ I create resources to support learning and doing statistics using three sets of 
 - **Websites:** Step-by-step tutorials for statistical software like SPSS, jamovi, and JASP—designed to make analysis more approachable for learners.
 - **R Packages:** Custom R tools for teaching, effect size estimation, data visualization, and reproducible analysis—ideal for educators and researchers.
 - **Spreadsheets:** User-friendly templates that bring advanced statistical methods to Excel—great for teaching or quick analyses without coding.
+
+See my complete repositories list for access to all available tools.
 
 [![Package Overview](https://img.shields.io/badge/Summaries-gray?logo=readme&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/summaries.md)
 [![GitHub Repos](https://img.shields.io/badge/-Repositories-blue?logo=github&style=for-the-badge)](https://github.com/cwendorf?tab=repositories)
