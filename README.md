@@ -16,4 +16,5 @@ I create resources to support learning and doing statistics using three sets of 
 - **R Packages:** Custom R tools for teaching, effect size estimation, data visualization, and reproducible analysis—ideal for educators and researchers
 - **Spreadsheets:** User-friendly templates that bring advanced statistical methods to Excel—great for teaching or quick analyses without coding
 
-[![Statistics Repos](https://img.shields.io/badge/-Repositories-blue?logo=github&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/repositories.md)
+[![GitHub Repos](https://img.shields.io/badge/-Repositories-blue?logo=github&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/repositories.md)
+[![GitHub Gists](https://img.shields.io/badge/-Gists-blue?logo=github&style=for-the-badge)](https://gist.github.com/cwendorf)
