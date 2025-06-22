@@ -37,6 +37,7 @@ This online `Sourcebook` is intended to facilitate the connection between standa
 [![statistics](https://img.shields.io/badge/statistics-gray)](https://github.com/topics/statistics) 
 [![estimation](https://img.shields.io/badge/estimation-gray)](https://github.com/topics/estimation) 
 [![confidence-intervals](https://img.shields.io/badge/confidence--intervals-gray)](https://github.com/topics/confidence-intervals) 
+[![effect-size](https://img.shields.io/badge/effect--size-gray)](https://github.com/topics/effect-size) 
 [![data-visualization](https://img.shields.io/badge/data--visualization-gray)](https://github.com/topics/data-visualization)
 
 [![R](https://img.shields.io/badge/R-blue?logo=r&style=for-the-badge)](https://www.r-project.org/)
@@ -52,7 +53,26 @@ This online `Sourcebook` is intended to facilitate the connection between standa
 [![backcalc](https://img.shields.io/badge/backcalc-gray)](https://github.com/topics/backcalc) 
 [![r-package](https://img.shields.io/badge/r--package-gray)](https://github.com/topics/r-package) 
 [![statistics](https://img.shields.io/badge/statistics-gray)](https://github.com/topics/statistics) 
-[![estimation-statistics](https://img.shields.io/badge/estimation--statistics-gray)](https://github.com/topics/estimation-statistics) 
+[![estimation](https://img.shields.io/badge/estimation-gray)](https://github.com/topics/estimation) 
+[![confidence-intervals](https://img.shields.io/badge/confidence--intervals-gray)](https://github.com/topics/confidence-intervals)
+[![hypothesis-testing](https://img.shields.io/badge/hypothesis--testing-gray)](https://github.com/topics/hypothesis-testing)
+
+[![R](https://img.shields.io/badge/R-blue?logo=r&style=for-the-badge)](https://www.r-project.org/)
+
+---
+
+[spTools](https://github.com/cwendorf/spTools)
+
+**Helper Functions for the `statpsych` Package**
+
+`spTools` is a lightweight collection of helper functions that enhance the usability, formatting, and interpretability of statistical results produced by the statpsych package by Douglas Bonett. `statpsych` provides high-accuracy confidence interval methods for means, medians, variances, proportions, correlations, and standardized effect sizes. However, its functions are designed in a traditional R programming style, making them less convenient for modern workflows involving the native pipe (|>) and other conventions.
+
+[![spTools](https://img.shields.io/badge/spTools-gray)](https://github.com/topics/spTools) 
+[![r-package](https://img.shields.io/badge/r--package-gray)](https://github.com/topics/r-package) 
+[![statistics](https://img.shields.io/badge/statistics-gray)](https://github.com/topics/statistics) 
+[![estimation](https://img.shields.io/badge/estimation-gray)](https://github.com/topics/estimation) 
+[![confidence-intervals](https://img.shields.io/badge/confidence--intervals-gray)](https://github.com/topics/confidence-intervals) 
+[![effect-size](https://img.shields.io/badge/effect--size-gray)](https://github.com/topics/effect-size) 
 [![hypothesis-testing](https://img.shields.io/badge/hypothesis--testing-gray)](https://github.com/topics/hypothesis-testing)
 
 [![R](https://img.shields.io/badge/R-blue?logo=r&style=for-the-badge)](https://www.r-project.org/)
