@@ -2,7 +2,7 @@
 
 This page presents a selection of journal articles and scholarly book chapters that highlight contributions to statistical methods. These publications encompass theoretical advancements, methodological clarifications, and applied statistics in social and cross-cultural psychology.
 
-### STATISTICAL METHODS
+### Statistical Methods
 
 Wendorf, C. A. (2012). Drawing inferences from multiple intervals in the single-factor design: Derivations, clarifications, extensions, and representations. *Methodology: European Journal of Research Methods for the Behavioral and Social Sciences, 8,* 125-133. [https://doi.org/10.1027/1614-2241/a000045](https://doi.org/10.1027/1614-2241/a000045)
 
@@ -10,7 +10,7 @@ Wendorf, C. A. (2004). Primer on multiple regression coding: Common forms and th
 
 Wendorf, C. A. (2002). Comparisons of structural equation modeling and hierarchical linear modeling approaches to couples' data. *Structural Equation Modeling, 9,* 126-140. [https://doi.org/10.1207/S15328007SEM0901_7](https://doi.org/10.1207/S15328007SEM0901_7)
 
-### APPLIED STATISTICS
+### Applied Statistics
 
 Wendorf, C. A., & Lucas, T. (2018). Getting it right: Why invariance testing with respect to gender and culture is important. In G. Weisfeld, C. Weisfeld, & L. Dillon (Eds.), *Psychology of marriage: An evolutionary and cross-cultural view* (pp. 41-52). Lexington Books. [https://rowman.com/ISBN/9781498541251/The-Psychology-of-Marriage-An-Evolutionary-and-Cross-Cultural-View](https://rowman.com/ISBN/9781498541251/The-Psychology-of-Marriage-An-Evolutionary-and-Cross-Cultural-View)
 
