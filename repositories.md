@@ -61,7 +61,7 @@ This online `Sourcebook` is intended to facilitate the connection between standa
 
 ---
 
-[spTools](https://github.com/cwendorf/spTools)
+### [spTools](https://github.com/cwendorf/spTools)
 
 **Helper Functions for the `statpsych` Package**
 
