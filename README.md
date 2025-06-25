@@ -12,9 +12,9 @@ I am interested in statistical methods quite generally. Across my career, I have
 
 I create resources to support learning and doing statistics using three sets of tools:
 
-- **Websites:** Step-by-step tutorials for statistical software like SPSS, jamovi, and JASP—designed to make analysis more approachable for learners
-- **R Packages:** Custom R tools for teaching, effect size estimation, data visualization, and reproducible analysis—ideal for educators and researchers
-- **Spreadsheets:** User-friendly templates that bring advanced statistical methods to Excel—great for teaching or quick analyses without coding
+- **Websites:** Step-by-step tutorials for statistical software like SPSS, jamovi, and JASP designed to make analysis more approachable
+- **R Packages:** Custom R tools for teaching, effect size estimation, data visualization, and reproducible analysis for educators and researchers
+- **Spreadsheets:** User-friendly templates for that bring statistical methods to Excel for quick analyses and teaching
 
 [![GitHub Repos](https://img.shields.io/badge/-Repositories-blue?logo=github&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/repositories.md)
 [![GitHub Gists](https://img.shields.io/badge/-Gists-blue?logo=github&style=for-the-badge)](https://gist.github.com/cwendorf)
