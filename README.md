@@ -17,4 +17,4 @@ I create resources to support learning and doing statistics using three sets of 
 - **Spreadsheets:** User-friendly templates for that bring statistical methods to Excel for quick analyses and teaching
 
 [![GitHub Repos](https://img.shields.io/badge/-Repositories-blue?logo=github&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/repositories.md)
-[![GitHub Gists](https://img.shields.io/badge/-Gists-0d1117?logo=github&style=for-the-badge)](https://gist.github.com/cwendorf)
+[![GitHub Gists](https://img.shields.io/badge/-Gists-blue?logo=github&style=for-the-badge)](https://gist.github.com/cwendorf)
