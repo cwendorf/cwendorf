@@ -4,7 +4,7 @@ I am interested in statistical methods quite generally. Across my career, I have
 
 - **Statistics Education:** Educating students and the public about basic and new statistical procedures
 - **Estimation Statistics:** Promoting confidence intervals, contrasts, and effect sizes as a framework for decision making
-- **Complex Data:** Modeling dyadic, multilevel, and longitudinal data
+- **Complex Data:** Modeling dyadic, multilevel, and longitudinal data in applied research
 
 [![Research Publications](https://img.shields.io/badge/-publications-silver?logo=readme&logoColor=white&labelColor=purple&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/repositories.md)
 

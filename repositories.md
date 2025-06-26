@@ -44,7 +44,7 @@ This list showcases a range of educational resources, R packages, and other tool
 
 **Reconstruct Missing Inferential Statistics**
 
-`backcalc` is an R package that provides a set of functions to reconstruct key inferential statistics such as standard errors, confidence intervals, test statistics, and p-values from partial or incomplete summary information commonly reported in scientific literature. The functions support a variety of data types and designs, including single-sample, two-sample (independent or paired), one- and two-sided tests, and accommodate both z and t distributions.
+`backcalc` is an R package designed to help researchers and students reconstruct key inferential statistics —- such as standard errors, confidence intervals, test statistics, and p-values —- from partial or incomplete summary data commonly found in scientific literature. Supporting various data types and designs, including single- and two-sample (independent or paired) tests with z or t distributions, it offers tailored functions for means, correlations, regression coefficients, proportions, and ratio measures.
 
 [![backcalc](https://img.shields.io/badge/backcalc-ddf4ff?style=flat-rounded)](https://github.com/topics/backcalc) 
 [![r-package](https://img.shields.io/badge/r--package-ddf4ff?style=flat-rounded)](https://github.com/topics/r-package) 
