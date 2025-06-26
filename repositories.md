@@ -8,7 +8,7 @@ This list showcases a range of educational resources, R packages, and other tool
 
 **Basic Statistical Methods for Social Science**
 
-This online `Sourcebook` is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and DEVISE (an R package).
+`Sourcebook` is an online textbook that is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and DEVISE (an R package).
 
 [🔗 cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
 
@@ -59,7 +59,7 @@ This online `Sourcebook` is intended to facilitate the connection between standa
 
 **Helper Functions for the `statpsych` Package**
 
-`spTools` is a lightweight collection of helper functions that enhance the usability, formatting, and interpretability of statistical results produced by the statpsych package by Douglas Bonett. `statpsych` provides high-accuracy confidence interval methods for means, medians, variances, proportions, correlations, and standardized effect sizes. However, its functions are designed in a traditional R programming style, making them less convenient for modern workflows involving the native pipe (|>) and other conventions.
+`spTools` is a small collection of helper functions that enhance the usability, formatting, and interpretability of statistical results produced by the statpsych package by Douglas Bonett. `statpsych` provides high-accuracy confidence interval methods for means, medians, variances, proportions, correlations, and standardized effect sizes. However, its functions are designed in a traditional R programming style, making them less convenient for modern workflows involving the native pipe (|>) and other conventions.
 
 [![spTools](https://img.shields.io/badge/spTools-ddf4ff)](https://github.com/topics/spTools) 
 [![r-package](https://img.shields.io/badge/r--package-ddf4ff)](https://github.com/topics/r-package) 
