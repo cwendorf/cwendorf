@@ -55,22 +55,6 @@ This list showcases a range of educational resources, R packages, and other tool
 
 ---
 
-### [spTools](https://github.com/cwendorf/spTools)
-
-**Helper Functions for the `statpsych` Package**
-
-`spTools` is a small collection of helper functions that enhance the usability, formatting, and interpretability of statistical results produced by the statpsych package by Douglas Bonett. `statpsych` provides high-accuracy confidence interval methods for means, medians, variances, proportions, correlations, and standardized effect sizes. However, its functions are designed in a traditional R programming style, making them less convenient for modern workflows involving the native pipe (|>) and other conventions.
-
-[![spTools](https://img.shields.io/badge/spTools-ddf4ff?style=flat-rounded)](https://github.com/topics/spTools) 
-[![r-package](https://img.shields.io/badge/r--package-ddf4ff?style=flat-rounded)](https://github.com/topics/r-package) 
-[![statistics](https://img.shields.io/badge/statistics-ddf4ff?style=flat-rounded)](https://github.com/topics/statistics) 
-[![estimation](https://img.shields.io/badge/estimation-ddf4ff?style=flat-rounded)](https://github.com/topics/estimation) 
-[![confidence-intervals](https://img.shields.io/badge/confidence--intervals-ddf4ff?style=flat-rounded)](https://github.com/topics/confidence-intervals) 
-[![effect-size](https://img.shields.io/badge/effect--size-ddf4ff?style=flat-rounded)](https://github.com/topics/effect-size) 
-[![hypothesis-testing](https://img.shields.io/badge/hypothesis--testing-ddf4ff?style=flat-rounded)](https://github.com/topics/hypothesis-testing)
-
----
-
 ### [CALM](https://github.com/cwendorf/CALM)
 
 **Contrast Algorithms for Linear Models**
