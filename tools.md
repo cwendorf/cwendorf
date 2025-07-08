@@ -1,4 +1,4 @@
-## MY STATISTICS REPOSITORIES
+## MY STATISTICS TOOLS
 
 This list showcases a range of educational resources, R packages, and other tools designed for statistical analysis, data visualization, and estimation. It includes software for exploring distributions, reconstructing missing statistics, applying contrast algorithms, and practical guides for social science statistics using various statistical software.
 
