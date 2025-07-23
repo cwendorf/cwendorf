@@ -8,7 +8,7 @@ This list showcases a range of educational resources, R packages, and other tool
 
 **Basic Statistical Methods for Social Science**
 
-`Sourcebook` is an online textbook that is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and DEVISE (an R package).
+`Sourcebook` is an online textbook that is intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. It contains a wide range of materials designed to assist with the use of statistical software such as IBM SPSS, jamovi, JASP, R (base functions), and EASI (an R package).
 
 [🔗 cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
 
@@ -18,19 +18,19 @@ This list showcases a range of educational resources, R packages, and other tool
 [![jamovi](https://img.shields.io/badge/jamovi-ddf4ff?style=flat-rounded)](https://github.com/topics/jamovi) 
 [![jasp](https://img.shields.io/badge/JASP-ddf4ff?style=flat-rounded)](https://github.com/topics/jasp) 
 [![R](https://img.shields.io/badge/R-ddf4ff?style=flat-rounded)](https://github.com/topics/r) 
-[![devise](https://img.shields.io/badge/DEVISE-ddf4ff?style=flat-rounded)](https://github.com/topics/devise)
+[![easi](https://img.shields.io/badge/easi-ddf4ff?style=flat-rounded)](https://github.com/topics/easi)
 
 ---
 
-### [DEVISE](https://github.com/cwendorf/DEVISE)
+### [EASI](https://github.com/cwendorf/EASI)
 
-**Data Exploration, Visualization, and Inference with Statistical Estimation**
+**Estimation Approach to Statistical Inference**
 
-`DEVISE` is an R package that implements features of estimation statistics and data visualization in a pipe-oriented framework. Its primary functions describe, estimate, test, and plot confidence intervals for means, mean comparisons, correlations, and standardized effect sizes in between- and within-subjects single-factor, factorial, and mixed designs. Most functions can take either raw data or summary statistics as input.
+`EASI` is an R package that implements features of estimation statistics and data visualization in a pipe-oriented framework. Its primary functions describe, estimate, test, and plot confidence intervals for means, mean comparisons, correlations, and standardized effect sizes in between- and within-subjects single-factor, factorial, and mixed designs. Most functions can take either raw data or summary statistics as input.
 
-[🔗 cwendorf.github.io/DEVISE/](https://cwendorf.github.io/DEVISE/)
+[🔗 cwendorf.github.io/EASI/](https://cwendorf.github.io/EASI/)
 
-[![devise](https://img.shields.io/badge/devise-ddf4ff?style=flat-rounded)](https://github.com/topics/devise) 
+[![easi](https://img.shields.io/badge/easi-ddf4ff?style=flat-rounded)](https://github.com/topics/easi) 
 [![r-package](https://img.shields.io/badge/r--package-ddf4ff?style=flat-rounded)](https://github.com/topics/r-package) 
 [![statistics](https://img.shields.io/badge/statistics-ddf4ff?style=flat-rounded)](https://github.com/topics/statistics) 
 [![estimation](https://img.shields.io/badge/estimation-ddf4ff?style=flat-rounded)](https://github.com/topics/estimation) 
