@@ -95,18 +95,6 @@ This list showcases a range of educational resources, R packages, and other tool
 
 ---
 
-### [tableR](https://github.com/cwendorf/tableR)
-
-**Flexible Table Formatting and Styling in R**
-
-`tableR` is an R package designed to simplify the process of formatting and styling data frames into neatly organized tables for console output, Markdown documents, and APA-style reports. It is designed to work with the output from a wide variety of packages.
-
-[![tableR](https://img.shields.io/badge/tableR-ddf4ff?style=flat-rounded)](https://github.com/topics/tableR) 
-[![r-package](https://img.shields.io/badge/r--package-ddf4ff?style=flat-rounded)](https://github.com/topics/r-package) 
-[![statistics](https://img.shields.io/badge/statistics-ddf4ff?style=flat-rounded)](https://github.com/topics/statistical-output)
-
----
-
 ### [simplePipes](https://github.com/cwendorf/simplePipes)
 
 **A Collection of Pipe Operators**
