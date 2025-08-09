@@ -1,20 +1,16 @@
-## MY STATISTICS RESEARCH
+## Professional Interests
 
-I am passionate about statistical methods and their application across education and research. My work focuses on three overlapping areas:
+Broadly speaking, I am interested in staistical methods, social and cultural psychology, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
 
-- **Statistics Education:** Educating students and the public on both fundamental and modern statistical procedures
-- **Estimation Statistics:** Promoting the use of confidence intervals, contrasts, and effect sizes as a robust framework for decision making
-- **Complex Data:** Developing and applying models for dyadic, multilevel, and longitudinal data in applied research settings
+- **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
+- **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
+- **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development
 
-[![Research Publications](https://img.shields.io/badge/-publications-silver?logo=readme&logoColor=white&labelColor=purple&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/publications.md)
+## Available Materials
 
-## MY STATISTICS RESOURCES
+I believe in clear and open practices in higher education. My summary teaching materials, links to my research publications and student independent projects, and portals to my open source statistics resources are all available on this website.
 
-I develop tools and materials to support learning and applying statistics, spanning three main platforms:
-
-- **Websites:** Step-by-step tutorials for software like SPSS, jamovi, and JASP designed to make statistical analysis approachable
-- **R Packages:** Custom R packages for teaching, effect size estimation, data visualization, and reproducible research, tailored for educators and researchers
-- **Spreadsheets:** User-friendly Excel templates that bring statistical methods to life for quick analyses and teaching purposes
-
-[![GitHub Repos](https://img.shields.io/badge/-tools-silver?logo=github&logoColor=white&labelColor=blue&style=for-the-badge)](https://github.com/cwendorf/cwendorf/blob/main/tools.md)
-[![Github Gists](https://img.shields.io/badge/-gists-silver?logo=github&logoColor=white&labelColor=blue&style=for-the-badge)](https://gist.github.com/cwendorf)
+- **[Teaching Materials:](teaching/README.md)** My teaching philosophy; learning outcomes for all of my courses; my grading system with examples
+- **[Statistics Resources:](resources/README.md)** Sourcebook of statistical methods; various statistics packages for R; Excel spreadsheets for basic statistical methods
+- **[Research Publications:](research/README.md)** Journal article publications; regional and international conference presentations
+- **[Student Projects:](projects/README.md)** Independent study descriptions and downloads; listing of all independent study projects
