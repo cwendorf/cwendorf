@@ -8,4 +8,4 @@ Broadly speaking, I am interested in statistical methods, social and cultural ps
 
 ---
 
-Below are examples of my major software projects. For a complete list, see [my GitHub repositories](https://github.com/cwendorf?tab=repositories)
+Below are examples of my major GitHub projects. For a complete list, see [my GitHub repositories](https://github.com/cwendorf?tab=repositories)
