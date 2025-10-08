@@ -1,6 +1,6 @@
-## Hi, I'm Craig
+## Overview
 
-### My Professional Interests
+### Professional Interests
 
 Broadly speaking, I am interested in statistical methods, social and cultural psychology, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
 
@@ -8,7 +8,7 @@ Broadly speaking, I am interested in statistical methods, social and cultural ps
 - **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development
 
-### My GitHub Contributions
+### Available Materials
 
 The pinned items below are my major GitHub projects, but I have a lot of R packages, online textbooks, spreadsheets, and documentation to share!
 
