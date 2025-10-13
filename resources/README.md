@@ -2,7 +2,7 @@
 
 ## Online Textbooks
 
-For most of my career, I have developed online textbook materials intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. These materials currently include: a summary of basic statistical methods; instructions on obtaining basic statistical output using SPSS, jamovi, JASP, R (base functions), EASI (an R package), and CREATE (a collection of Excel spreadsheets); annotated output showing how to calculate and interpret the output; and summaries of how the results should be reported in APA style.
+For most of my career, I have developed online textbook materials intended to facilitate the connection between standard introductory statistics concepts and their implementation in statistical software. These materials currently include: a summary of basic statistical methods; instructions on obtaining basic statistical output using SPSS, jamovi, JASP, R (using base functions), EASI (an R package), and CREATE (a collection of Excel spreadsheets); annotated output showing how to calculate and interpret the output; and summaries of how the results should be reported in APA style.
 
 - [Sourcebook: Basic statistical methods for social science](https://cwendorf.github.io/Sourcebook)
 
