@@ -4,7 +4,7 @@
 - University of Wisconsin - Stevens Point
 - cwendorf@uwsp.edu
 
-## OVerview
+## Overview
 
 Participation in this directed study is designed to give the student the opportunity to be involved in the implementation of an empirical study in social/cultural psychology. The end-goal is for the student, with the instructor’s assistance, to collect and organize the data for the study.
 
