@@ -1,8 +1,10 @@
-# Research Publications
+# Craig A. Wendorf, Ph.D.
 
-## Social and Cultural Psychology
+## Research Publications
 
-As a social and cultural psychologist, I have a broad interest in people's social behavior, especially as it is both common and distinctive across cultures. One area of substantive research centers on a general theme: identifying people's concerns about what is fair, just, and proper in both basic and applied settings. In a separate thread of research, my primary involvement in cultural and evolutionary psychology for several years had been as part of a large-scale cross-cultural study of marital satisfaction.
+### Social and Cultural Psychology
+
+As a social and cultural psychologist, I have a broad interest in people's social behavior, especially as it is both common and distinctive across cultures. One area of substantive research centers on a general theme: identifying people's concerns about what is fair, just, and proper in both basic and applied settings. Separately, I had been part of a large-scale cross-cultural study of marital satisfaction for several years.
 
 - Wendorf, C. A., & Lucas, T. (2018). Getting it right: Why invariance testing with respect to gender and culture is important. In G. Weisfeld, C. Weisfeld, & L. Dillon (Eds.), _Psychology of marriage: An evolutionary and cross-cultural view_ (pp. 41-52). Lexington Books. [https://rowman.com/ISBN/9781498541251/](https://rowman.com/ISBN/9781498541251/The-Psychology-of-Marriage-An-Evolutionary-and-Cross-Cultural-View)
 
@@ -26,7 +28,7 @@ As a social and cultural psychologist, I have a broad interest in people's socia
 
 - Wendorf, C. A. (2001). History of American morality research, 1894-1932. _History of Psychology, 4,_ 272-288. [https://dx.doi.org/10.1037/1093-4510.4.3.272](https://dx.doi.org/10.1037/1093-4510.4.3.272)
 
-## Statistical Methods
+### Statistical Methods
 
 I am interested in statistical methods quite generally. For instance, my research on married couples has led me to develop and compare structural equation modeling and multilevel modeling approaches to dyadic data. From a more teaching-oriented perspective, I am interested in developing statistical methods that facilitate the presentation of statistical material. This is evident in my work on structural equation modeling, multiple regression coding, and confidence intervals.
 
@@ -36,7 +38,7 @@ I am interested in statistical methods quite generally. For instance, my researc
 
 - Wendorf, C. A. (2002). Comparisons of structural equation modeling and hierarchical linear modeling approaches to couples' data. _Structural Equation Modeling, 9,_ 126-140. [https://doi.org/10.1207/S15328007SEM0901\_7](https://doi.org/10.1207/S15328007SEM0901_7)
 
-## Scholarship of Teaching and Learning
+### Scholarship of Teaching and Learning
 
 I have a broad interest in the scholarship of teaching and learning, especially as relevant to psychology. As one example of applying psychological theory to teaching, I have adapted the psychology of fairness to an understanding of fairness dynamics in the classroom. Other studies have examined the psychology behind students' beliefs about grading and the psychology major as a whole.
 

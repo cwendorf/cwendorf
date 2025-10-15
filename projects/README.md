@@ -1,6 +1,8 @@
-# Student Projects
+# Craig A. Wendorf, Ph.D.
 
-## Independent Study
+## Student Projects
+
+### Independent Study
 
 Like most of the Psychology faculty, I regularly involve students in my research. Students can become involved in any phase of a research project, from writing a research proposal and designing the study to analyzing and presenting the findings. Although students who want to be part of an entire project become involved on a three-semester basis, many students are involved for only a portion of a project. I typically offer two credts of PSYC 399 (Independent Study) for each semester of involvement.
 
@@ -8,7 +10,7 @@ Like most of the Psychology faculty, I regularly involve students in my research
 - [Independent Study: Study Implementation Project](./StudyImplementationProject.md)
 - [Independent Study: Study Analysis Project](./StudyAnalysisProject.md)
 
-## Sample Projects
+### Sample Projects
 
 - Stanton, S., & Wierzba, B. (2016, May). _Surely you are not a sarcastic person: Measuring sarcasm as a personality trait_ \[Poster presentation\]. Letters and Science Undergraduate Research Symposium, University of Wisconsin – Stevens Point. (Faculty Sponsor: Craig A. Wendorf)
 
