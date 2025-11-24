@@ -27,7 +27,7 @@ In general, your level of performance in achieving these indicators of quality c
 - Unacceptable – Performance does not meet the quality expectations for the task
 - Problematic – Performance meets low quality expectations for the task
 - Satisfactory – Performance meets normal quality expectations for the task
-- Comendable – Performance meets high quality expectations for the task
+- Commendable – Performance meets high quality expectations for the task
 
 ## The Criteria as Applied to Different Tasks
 
