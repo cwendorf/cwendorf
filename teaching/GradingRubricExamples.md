@@ -1,8 +1,8 @@
 # Grading Rubric Examples
 
-- Craig A. Wendorf, Ph.D.
-- University of Wisconsin - Stevens Point
-- cwendorf@uwsp.edu
+- **Author:** Craig A. Wendorf, Ph.D.
+- **Institution:** University of Wisconsin - Stevens Point
+- **Contact:** cwendorf@uwsp.edu
 
 ## Overview
 
@@ -235,35 +235,3 @@ What things might you need to be careful about while running the study?
 
 - For an in-class activity with limited space, the answers are fairly thoughtful. Major aspects of measurement and research design are addressed, as are concerns about generalization. Of course, many more details would be required for a full research proposal on the topic.
 - Note that writing style (grammar, spelling, etc.) is evaluated here. There are typographical and grammatical errors, but they are quite minor. Therefore, there is no deduction.
-
-### A 12-Point Essay Question with a Sample Student Answer
-
-#### Question
-
-> What is the role of cognitive/affective units in explaining personality? In answering the question: identify one relevant cognitive/affective unit, describe one study that pertains to this unit, and provide one everyday example of how this unit is applied to your life.
-
-#### Student Answer
-
-> One of the cognitive units that I find very interesting is the cognitive schema. A schema is an organized pattern of thought or behavior that organizes categories of information and the rleationships among them. Somebody can carry these schemas across different situations and apply them to people and places.
-
-> A very interesting study on the cognitive schema was one that was taken by Brewer and Treyens (1981). They took participants and asked them to wait in what was described as an academic room. Afterwards they were asked to describe the room and a number of participants had described seeing books in the room when none were present. This is the perfect example of how schema affects perception of the world around you. 
-
-> This can be applied to my everyday life because I definitely have a certain set of perceptions that I carry over to different situations. It may be between work and school, or home and friends. I don’t see every situation or setting in its own unique way, rather I see it as compared to another sitution and I tend to categorize them the same.
-
-#### Grading Rubric
-
-| Category | Unacceptable| Problematic | Satisfactory | Commendable |
-| :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | **[X] Relevancy Implied** <br/>[ ] Minor Inaccuracies <br/>**[X] Details Too Broad** | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details |
-| Everyday Applications (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | **[X] Relevancy Vague** <br/>[ ] Major Inaccuracies <br/>**[X] Lacking Details** | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
-| Research Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | **[X] Relevancy Vague** <br/>[ ] Major Inaccuracies <br/>**[X] Lacking Details** | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
-| Writing Style & Organization (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Inadequate Format <br/>[ ] Major Errors <br/>[ ] Haphazard Organization | [ ] Inconsistent Format <br/>**[X] Minor Errors <br/>[X] Adequate Organization** | [ ] Proper Format <br/>[ ] Minimal Errors <br/>[ ] Good Organization |
-
-**Essay Grade: 6/12 Points**
-
-#### Instructor Comments
-
-- The student uses relevant terms from the literature and they are defined (but in a very general sense). While the concepts pertain to personality, the link is not clearly stated.
-- The answer uses very vague everyday applications. There is no obvious or clear link to the student’s personality, largely because details in the example are missing. 
-- The essay does not provide enough study details to demonstrate the relevance of the study to the question. It is a study about schemas, but student has not described its importance to understanding personality.
--  The answer is too terse and informal (with multiple spelling errors and contractions). Though the organization separates the terms and examples, it does not tie all of the ideas together.
