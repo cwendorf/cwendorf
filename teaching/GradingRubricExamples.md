@@ -24,11 +24,11 @@ What is a standardized score and how is it interpreted? Answer the question by d
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | **[X] Inappropriate <br/>[X] Incorrect <br/>[X] Incomplete** | [] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Theories & Concepts (0-3 Points) | **[X] Inappropriate <br/>[X] Incorrect <br/>[X] Incomplete** | [] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | [ ] Improper Format <br/>[ ] Several Errors <br/>[ ] Unclear Organization | **[X] Proper Format <br/>[X] Few Errors <br/>[X] Focused Organization** | 
+| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] Poor Integration | **[X] Proper Format <br/>[X] Few or No Errors <br/>[X] Good Integration** | 
 
 **Essay grade: 1/4 Points**
 
@@ -51,11 +51,11 @@ What is the most prominent concept in the study of social interaction (conflict,
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>**[X] Major Inaccuracies <br/>[X] Lacking Details** | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>**[X] Major Inaccuracies <br/>[X] Insufficient Detail** | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | [ ] Improper Format <br/>[ ] Several Errors <br/>[ ] Unclear Organization | **[X] Proper Format <br/>[X] Few Errors <br/>[X] Focused Organization** | 
+| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] Poor Integration | **[X] Proper Format <br/>[X] Few or No Errors <br/>[X] Good Integration** | 
 
 **Essay Grade: 2/4 Points**
 
@@ -78,11 +78,11 @@ What are the main differences between a within-subjects and a between-subjects d
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | [ ] Relevancy Implied <br/>**[X] Minor Inaccuracies <br/>[X] Details Too Broad** | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>**[X] Minor Inaccuracies <br/>[X] Broad Detail** | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | [ ] Improper Format <br/>[ ] Several Errors <br/>[ ] Unclear Organization | **[X] Proper Format <br/>[X] Few Errors <br/>[X] Focused Organization** | 
+| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] Poor Integration | **[X] Proper Format <br/>[X] Few or No Errors <br/>[X] Good Integration** | 
 
 **Essay Grade: 3/4 Points**
 
@@ -111,11 +111,11 @@ The field of social psychology endured significant critique during the 1960s and
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | **[X] Relevancy Described <br/>[X] No Inaccuracies <br/>[X] Thorough Details** | 
+| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | **[X] Explicit Relevance <br/>[X] No Inaccuracies <br/>[X] Thorough Detail** | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | [ ] Improper Format <br/>[ ] Several Errors <br/>[ ] Unclear Organization | **[X] Proper Format <br/>[X] Few Errors <br/>[X] Focused Organization** | 
+| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] Poor Integration | **[X] Proper Format <br/>[X] Few or No Errors <br/>[X] Good Integration** | 
 
 **Essay Grade: 4/4 Points**
 
@@ -146,11 +146,11 @@ Observation of a helpful model | When someone helps another person, we should be
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | **[X] Relevancy Implied** <br/>[ ] Minor Inaccuracies <br/>**[X] Details Too Broad** | [ ] Relevancy Described <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | **[X] Implied Relevance** <br/>[ ] Minor Inaccuracies <br/>**[X] Broad Detail** | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | [ ] Improper Format <br/>[ ] Several Errors <br/>**[X] Unclear Organization** | [ ] Proper Format <br/>[ ] Few Errors <br/>[ ] Focused Organization |
+| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>**[X] Poor Integration** | [ ] Proper Format <br/>[ ] Few or No Errors <br/>[ ] Good Integration |
 
 **Activity Grade: 2/4 Points**
 
@@ -181,11 +181,11 @@ C or lower:  3, 2, 0, 3, 2, 1, 4, 3, 3
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Procedure & Solution (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | **[X] Relevancy Described <br/>[X] No Inaccuracies <br/>[X] Thorough Details** | 
+| Procedure & Solution (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | **[X] Explicit Relevance <br/>[X] No Inaccuracies <br/>[X] Thorough Detail** | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | **[X] Improper Format** <br/>[ ] Several Errors <br/>[ ] Unclear Organization | [ ] Proper Format <br/>[ ] Few Errors <br/>[ ] Focused Organization |    
+| Clarity & Structure (0-1 Point) | **[X] Improper Format** <br/>[ ] Incorrect Usage <br/>[ ] Poor Integration | [ ] Proper Format <br/>[ ] Few or No Errors <br/>[ ] Good Integration |    
 
 **Activity Grade: 3/4 Points**
 
@@ -223,11 +223,11 @@ What things might you need to be careful about while running the study?
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Relevancy Vague <br/>[ ] Major Inaccuracies <br/>[ ] Lacking Details | [ ] Relevancy Implied <br/>[ ] Minor Inaccuracies <br/>[ ] Details Too Broad | **[X] Relevancy Described <br/>[X] No Inaccuracies <br/>[X] Thorough Details** | 
+| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | **[X] Explicit Relevance <br/>[X] No Inaccuracies <br/>[X] Thorough Detail** | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
-| Writing Style & Organization (0-1 Point) | [ ] Improper Format <br/>[ ] Several Errors <br/>[ ] Unclear Organization | **[X] Proper Format <br/>[X] Few Errors <br/>[X] Focused Organization** | 
+| Clarity & Structure (0-1 Point) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] Poor Integration | **[X] Proper Format <br/>[X] Few or No Errors <br/>[X] Good Integration** | 
 
 **Activity Grade: 4/4 Points**
 

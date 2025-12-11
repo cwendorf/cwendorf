@@ -69,7 +69,7 @@ Worksheet-based questions are relatively simple tasks that are generally appropr
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevancy <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
@@ -81,7 +81,7 @@ A similar version is used for a typical story-based problem in Statistics, where
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Procedure & Solution (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevancy <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Procedure & Solution (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
@@ -93,7 +93,7 @@ Short essays are generally appropriate for homework assignments and exams. Here 
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevancy <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 
 | Category | Unacceptable| Acceptable |
 | :- | - | - |
@@ -105,8 +105,8 @@ As a final example, a relatively longer essay/paper would be generally appropria
 
 | Category | Unacceptable| Problematic | Satisfactory | Commendable |
 | :- | - | - | - | - |
-| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevancy <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
-| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevancy <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details |  
-| Interpretation & Conclusion (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevancy <br/>[ ] No Inaccuracies <br/>[ ] Thorough Details | 
+| Theories & Concepts (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
+| Applications & Evidence (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail |  
+| Interpretation & Conclusion (0-3 Points) | [ ] Inappropriate <br/>[ ] Incorrect <br/>[ ] Incomplete | [ ] Vague Relevance <br/>[ ] Major Inaccuracies <br/>[ ] Insufficient Detail | [ ] Implied Relevance <br/>[ ] Minor Inaccuracies <br/>[ ] Broad Detail | [ ] Explicit Relevance <br/>[ ] No Inaccuracies <br/>[ ] Thorough Detail | 
 | Clarity & Structure (0-3 Points) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] No Integration | [ ] Inadequate Format <br/>[ ] Major Errors <br/>[ ] Haphazard Integration | [ ] Inconsistent Format <br/>[ ] Minor Errors <br/>[ ] Adequate Integration | [ ] Proper Format <br/>[ ] Minimal Errors <br/>[ ] Good Integration |
 | Citations & References (0-3 Points) | [ ] Improper Format <br/>[ ] Incorrect Usage <br/>[ ] No Integration | [ ] Inadequate Format <br/>[ ] Major Errors <br/>[ ] Haphazard Integration | [ ] Inconsistent Format <br/>[ ] Minor Errors <br/>[ ] Adequate Integration | [ ] Proper Format <br/>[ ] Minimal Errors <br/>[ ] Good Integration |
