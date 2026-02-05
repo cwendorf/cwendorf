@@ -14,3 +14,8 @@ The pinned items below are my major GitHub projects, but I have a lot of R packa
 
 - **[My GitHub Repositories](https://github.com/cwendorf?tab=repositories):** A list of my completed and my ongoing projects
 - **[My GitHub Gists](https://gist.github.com/cwendorf):** Useful R code snippets for data management and analysis 
+
+
+<div class="github-card" data-user="lepture" data-repo="github-cards"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+
