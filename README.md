@@ -14,6 +14,3 @@ The pinned items below are my major GitHub projects, but I have a lot of R packa
 
 - **[My GitHub Repositories](https://github.com/cwendorf?tab=repositories):** A list of my completed and my ongoing projects
 - **[My GitHub Gists](https://gist.github.com/cwendorf):** Useful R code snippets for data management and analysis 
-
-
-[![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwendorf)](https://github.com/cwendorf/backcalc/)
