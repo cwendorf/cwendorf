@@ -1,4 +1,4 @@
-## Hi, I'm Craig!
+## My Projects
 
 ### Professional Interests
 
