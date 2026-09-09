@@ -62,12 +62,18 @@
   <div id=AreaContainer class=Container>
   <div id=AreaContent class=Content>
   
+    {% capture teaching_url %}{% link teaching.md %}{% endcapture %}
+    {% capture publications_url %}{% link publications.md %}{% endcapture %}
+    {% capture presentations_url %}{% link presentations.md %}{% endcapture %}
+    {% capture resources_url %}{% link resources.md %}{% endcapture %}
+    {% capture mentoring_url %}{% link mentoring.md %}{% endcapture %}
+
     <ul id=AreaMenu>
-      <li class=""><a href="{% link teaching.md %}" title="Teaching" class="">Teaching</a></li>
-      <li class=""><a href="{% link publications.md %}" title="Publications" class="">Publications</a></li>  
-      <li class=""><a href="{% link presentations.md %}" title="Presentations" class="">Presentations</a></li>
-      <li class=""><a href="{% link resources.md %}" title="Resources" class="">Resources</a></li>  
-      <li class=""><a href="{% link mentoring.md %}" title="Mentoring" class="">Mentoring</a></li>      
+      <li class=""><a href="{{ teaching_url | relative_url }}" title="Teaching" class="">Teaching</a></li>
+      <li class=""><a href="{{ publications_url | relative_url }}" title="Publications" class="">Publications</a></li>
+      <li class=""><a href="{{ presentations_url | relative_url }}" title="Presentations" class="">Presentations</a></li>
+      <li class=""><a href="{{ resources_url | relative_url }}" title="Resources" class="">Resources</a></li>
+      <li class=""><a href="{{ mentoring_url | relative_url }}" title="Mentoring" class="">Mentoring</a></li>
     </ul>
     
   </div>
