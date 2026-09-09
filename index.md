@@ -4,23 +4,23 @@
 
 ### Education
 
-- Ph.D., Social Psychology: Wayne State Unviversity (WSU) (2000)
-- M.A., Social Psychology: Wayne State Unviversity (WSU) (1998)
-- B.S., Psychology: University of Wisconsin Oshkosh (UWO) (1995)
-- A.A.S.: University of Wisconsin – Marathon County (UWMC) (1992)
+- Ph.D., Social Psychology: [Wayne State University (WSU)](https://clas.wayne.edu/psychology) (2000)
+- M.A., Social Psychology: [Wayne State University (WSU)](https://clas.wayne.edu/psychology) (1998)
+- B.S., Psychology: [University of Wisconsin Oshkosh (UWO)](https://www.uwosh.edu) (1995)
+- A.A.S.: [University of Wisconsin – Marathon County (UWMC)](https://www.uwsp.edu/wausau/) (1992)
 
 ### Academic Positions
 
-- Assistant Dean, University of Wisconsin - Stevens Point (UWSP) (2020 – Present)
-- Chairperson, University of Wisconsin - Stevens Point (UWSP)  (2010 – 2020)
-- Professor, University of Wisconsin - Stevens Point (UWSP)  (2011 – Present)
-- Associate Professor, University of Wisconsin - Stevens Point (UWSP)  (2006 – 2011)
-- Assistant Professor, University of Wisconsin - Stevens Point (UWSP)  (2002 – 2006)
-- Lecturer, University of Wisconsin - Stevens Point (UWSP) (2001 – 2002)
-- Lecturer, Wayne State Unviversity (WSU) (2000 – 2001)
-- Adjunct Instructor, University of Wisconsin – Marshfield/Wood County (UW-M/WC) (2003)
-- Adjunct Instructor, University of Detroit Mercy (UDM) (1999 – 2000)
-- Graduate Teaching Assistant, Wayne State University (WSU) (1995 – 2000)
+- Assistant Dean, School of Behavioral and Social Sciences: [University of Wisconsin - Stevens Point (UWSP)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/) (2020 – Present)
+- Chairperson, Psychology:  [University of Wisconsin - Stevens Point (UWSP)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/psychology-2/)  (2010 – 2020)
+- Professor, Psychology: [University of Wisconsin - Stevens Point (UWSP)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/psychology-2/) (2011 – Present)
+- Associate Professor, Psychology: [University of Wisconsin - Stevens Point (UWSP)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/psychology-2/) (2006 – 2011)
+- Assistant Professor, Psychology: [University of Wisconsin - Stevens Point (UWSP)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/psychology-2/) (2002 – 2006)
+- Lecturer, Psychology: [University of Wisconsin - Stevens Point (UWSP)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/psychology-2/) (2001 – 2002)
+- Lecturer, Psychology: [Wayne State Unviversity (WSU)](https://clas.wayne.edu/psychology) (2000 – 2001)
+- Adjunct Instructor: [University of Wisconsin – Marshfield/Wood County (UW-M/WC)](https://www.uwsp.edu/marshfield/) (2003)
+- Adjunct Instructor: [University of Detroit Mercy (UDM)](https://www.udmercy.edu) (1999 – 2000)
+- Graduate Teaching Assistant, Psychology: [Wayne State University (WSU)](https://clas.wayne.edu/psychology) (1995 – 2000)
 
 ### Professional Interests
 
