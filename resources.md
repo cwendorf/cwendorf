@@ -4,12 +4,12 @@
 
 ### Social and Cultural Psychology
 
-- Wendorf, C. A. (2026). _wvsR: Cross-cultural comparisons using WVS data_ \[R Package\]. [https://cwendorf.github.io/wvsR](https://cwendorf.github.io/wvsR)
-- Wendorf, C. A. (2025). _dsitR: Dynamic social impact simulator_ \[R Package\]. [https://cwendorf.github.io/dsitR](https://cwendorf.github.io/dsitR)
+- Wendorf, C. A. (2026). _wvsR: Cross-cultural comparisons using WVS data_ \[R Package\]. [https://github.com/cwendorf/wvsR](https://github.com/cwendorf/wvsR)
+- Wendorf, C. A. (2025). _dsitR: Dynamic social impact simulator_ \[R Package\]. [https://github.com/cwendorf/dsitR](https://github.com/cwendorf/dsitR)
 
 ### Statistics and Research Methods
 
-- Wendorf, C. A. (2025). _backcalc: Reconstructing missing inferential statistics_ \[R Package\]. [https://cwendorf.github.io/backcalc](https://cwendorf.github.io/backcalc)
+- Wendorf, C. A. (2025). _backcalc: Reconstructing missing inferential statistics_ \[R Package\]. [https://github.com/cwendorf/backcalc](https://github.com/cwendorf/backcalc)
 - Wendorf, C. A. (2022). _Sourcebook: Basic statistical methods for social science_ \[Online Textbook\]. [https://cwendorf.github.io/Sourcebook](https://cwendorf.github.io/Sourcebook)
 - Wendorf, C. A. (2022). _EASI: Estimation Approach to Statistical Inference_ \[R Package\]. [https://cwendorf.github.io/EASI](https://cwendorf.github.io/EASI)
 - Wendorf, C. A. (2022). _plotDistributions: Visualizing probability distributions_ \[R Package\]. [https://github.com/cwendorf/plotDistributions](https://github.com/cwendorf/plotDistributions)
