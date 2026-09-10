@@ -188,9 +188,9 @@ body {
 /* Footer Section Styles */
 
 #FooterContainer {
-    background: #ddd;
-    color: black;
-    border-top: 1px solid #ccc;
+    background: #512698;
+    color: #ddd;
+    border-top: 1px solid #2a1f2f;
     margin-top: 20px;
 }
 #FooterContent LI {
@@ -203,9 +203,8 @@ body {
     margin: 0px;
 }
 #FooterContent #address A {
-    color: #512698;
-    text-decoration: none;
+    color: #fff;
 }
 #FooterContent #address A:hover {
-    color: #63449b;
+    color: #ffc82e;
 }
