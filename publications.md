@@ -26,7 +26,7 @@ Weisfeld, G. E., & Wendorf, C. A. (2000). The IDS and discrete emotions theory. 
 
 Wendorf, C. A. (2001). History of American morality research, 1894-1932. _History of Psychology, 4,_ 272-288. [https://dx.doi.org/10.1037/1093-4510.4.3.272](https://dx.doi.org/10.1037/1093-4510.4.3.272)
 
-### Statistical Methods
+### Statistics and Research Methods
 
 Wendorf, C. A. (2012). Drawing inferences from multiple intervals in the single-factor design: Derivations, clarifications, extensions, and representations. _Methodology: European Journal of Research Methods for the Behavioral and Social Sciences, 8,_ 125-133. [https://doi.org/10.1027/1614-2241/a000045](https://doi.org/10.1027/1614-2241/a000045)
 
