@@ -42,8 +42,8 @@ Graduate Teaching Assistant, Psychology: [Wayne State University (WSU)](https://
 
 ### Professional Interests
 
-Statistics and Research Methods: Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
-
 Social and Cultural Psychology: Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
+
+Statistics and Research Methods: Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
 
 Scholarship of Teaching and Learning: Social psychology of education; student evaluations of teaching; faculty development
