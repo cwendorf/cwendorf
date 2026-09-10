@@ -2,6 +2,8 @@
 
 ## Teaching Experience
 
+I taught a wide variety of courses in Psychology at all levels across multiple institutions. Due to administrative responsibilities, my course offerings have been more limited in recent years.
+
 ### Social and Cultural Psychology
 
 Personality Psychology (UWSP, 2002, 2013 – Present)

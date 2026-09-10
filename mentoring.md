@@ -2,6 +2,8 @@
 
 ## Student Mentoring
 
+Like most of the UWSP Psychology faculty, I regularly involve students in my research. Students can become involved in any phase of a research project, from writing a research proposal and designing the study to analyzing and presenting the findings. The end-goal for a project is to present it at the College of Letters and Science Undergraduate Research Symposium.
+
 ### Social and Cultural Psychology
 
 Stanton, S., & Wierzba, B. (2016, May). _Surely you are not a sarcastic person: Measuring sarcasm as a personality trait_ \[Poster session\]. Letters and Science Undergraduate Research Symposium, University of Wisconsin – Stevens Point. (Faculty Sponsor: Craig A. Wendorf)

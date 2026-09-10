@@ -2,6 +2,8 @@
 
 ## Conference Presentations
 
+Just like with my publications, my presentations reflect wide interests in social and cultural psychology, statistical methods, and the scholarship of teaching and learning. But even more, these often demonstrate collaborations with other faculty members (from multiple institutions) and with students.
+
 ### Social and Cultural Psychology
 
 Lucas, T., Wu, M. S., Kamble, S. V., Zhdanova, L., & Wendorf, C. A. (2012, June). _Procedural and distributive justice beliefs for self and others: Measurement invariance and links to well-being in individualistic and collectivistic cultures_ \[Poster session\]. International Society for Justice Research, Rishon LeZion, Israel.

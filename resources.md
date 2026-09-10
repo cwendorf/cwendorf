@@ -2,6 +2,8 @@
 
 ## Open Resources
 
+I believe in clear and open practices in higher education. I have a lot of R packages, online textbooks, spreadsheets, and documentation to share!
+
 ### Social and Cultural Psychology
 
 Wendorf, C. A. (2026). _wvsR: Cross-cultural comparisons using WVS data_ \[R Package\]. [https://github.com/cwendorf/wvsR](https://github.com/cwendorf/wvsR)

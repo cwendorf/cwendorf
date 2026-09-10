@@ -2,6 +2,8 @@
 
 ## Research Publications
 
+Broadly speaking, I am interested in social and cultural psychology, statistical methods, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
+
 ### Social and Cultural Psychology
 
 Wendorf, C. A., & Lucas, T. (2018). Getting it right: Why invariance testing with respect to gender and culture is important. In G. Weisfeld, C. Weisfeld, & L. Dillon (Eds.), _Psychology of marriage: An evolutionary and cross-cultural view_ (pp. 41-52). Lexington Books. [https://rowman.com/ISBN/9781498541251/](https://rowman.com/ISBN/9781498541251/)

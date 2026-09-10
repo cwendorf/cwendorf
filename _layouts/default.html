@@ -62,6 +62,7 @@
   <div id=AreaContainer class=Container>
   <div id=AreaContent class=Content>
   
+    {% capture background_url %}{% link background.md %}{% endcapture %}
     {% capture teaching_url %}{% link teaching.md %}{% endcapture %}
     {% capture publications_url %}{% link publications.md %}{% endcapture %}
     {% capture presentations_url %}{% link presentations.md %}{% endcapture %}
@@ -69,6 +70,7 @@
     {% capture mentoring_url %}{% link mentoring.md %}{% endcapture %}
 
     <ul id=AreaMenu>
+      <li class=""><a href="{{ background_url | relative_url }}" title="Background" class="">Background</a></li>
       <li class=""><a href="{{ teaching_url | relative_url }}" title="Teaching" class="">Teaching</a></li>
       <li class=""><a href="{{ publications_url | relative_url }}" title="Publications" class="">Publications</a></li>
       <li class=""><a href="{{ presentations_url | relative_url }}" title="Presentations" class="">Presentations</a></li>

@@ -1,16 +1,21 @@
-## Background
+# [`Craig A. Wendorf`](./README.md)
 
-### Interests
+## About Me
 
-Broadly speaking, I am interested in statistical methods, social and cultural psychology, and the scholarship of teaching and learning. Of course, these interests are not mutually exclusive; in fact, most of my work spans more than one of these categories.
+I’m a psychologist whose career has been shaped by a commitment to understanding people and helping others learn. I develop educational resources, statistical tools, and other materials for psychology research and teaching.
 
-- **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
-- **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
-- **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development
+### Professional Interests
 
-### Materials
+Social and Cultural Psychology: Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
 
-I believe in clear and open practices in higher education. The pinned items below are my major projects, but I have a lot of R packages, online textbooks, spreadsheets, and documentation to share!
+Statistics and Research Methods: Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
 
-- **[My GitHub Repositories](https://github.com/cwendorf?tab=repositories):** A list of my completed and my ongoing projects
-- **[My GitHub Gists](https://gist.github.com/cwendorf):** Useful R code snippets for data management and analysis
+Scholarship of Teaching and Learning: Social psychology of education; student evaluations of teaching; faculty development
+
+### Professional Focus
+
+Teaching and Curriculum: Psychology courses; curriculum development; program assessment
+
+Academic Leadership: School and university administration; faculty development; shared governance
+
+Open Scholarship: Open educational resources; reproducible research; software and data tools
