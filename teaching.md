@@ -4,25 +4,42 @@
 
 ### Social and Cultural Psychology
 
-- Personality Psychology (UWSP, 2002, 2013 – Present)
-- Psychology and Culture (UWSP, 2001 – Present)
-- Social Psychology (WSU, UDM, UWSP, 1996 – 2015)
-- Applied Social Psychology (UWSP, 2004, 2006)
-- Introduction to Psychology (WSU, UW-M/WC, UWSP, 2000 – 2007, 2012)
-- Research in Social Psychology (UWSP, 2001 – 2020) - Independent Study
-- Introduction to Psychology (WSU, 1995 – 1996) - Lab Sections
+Personality Psychology (UWSP, 2002, 2013 – Present)
+
+Psychology and Culture (UWSP, 2001 – Present)
+
+Social Psychology (WSU, UDM, UWSP, 1996 – 2015)
+
+Applied Social Psychology (UWSP, 2004, 2006)
+
+Introduction to Psychology (WSU, UW-M/WC, UWSP, 2000 – 2007, 2012)
+
+Research in Social Psychology (UWSP, 2001 – 2020) - Independent Study
+
+Introduction to Psychology (WSU, 1995 – 1996) - Lab Sections
 
 ### Statistics and Research Methods
 
-- Research Practicum Seminar (UWSP, 2007-2008)
-- Research Methods in Psychology (UWSP, 2009 – 2018)
-- Statistics for Psychologists (WSU, UWSP, 1997 – 2020)
-- Intermediate Statistics (UWSP, 2002 – 2020) - Independent Study
-- Applied Statistical Methods (WSU, 2001)
-- Quantitative Methods I (WSU, UDM, 2000) – Graduate Course
-- Statistics for Psychologists (WSU, 1996-1997) - Lab Sections
-- Quantitative Methods I (WSU, 1997 – 1999) – Graduate Course, Lab Sections
-- Quantitative Methods II (WSU, 1997 – 1999) – Graduate Course, Lab Sections
-- Applied Statistical Methods (WSU, 1996) - Teaching Assistant
-- Applied Multivariate Statistics (WSU, 1999 – 2000) – Graduate Course, Teaching Assistant
-- Structural Equation Modeling (WSU, 1999 – 2000) – Graduate Course, Teaching Assistant
+Research Practicum Seminar (UWSP, 2007-2008)
+
+Research Methods in Psychology (UWSP, 2009 – 2018)
+
+Statistics for Psychologists (WSU, UWSP, 1997 – 2020)
+
+Intermediate Statistics (UWSP, 2002 – 2020) - Independent Study
+
+Applied Statistical Methods (WSU, 2001)
+
+Quantitative Methods I (WSU, UDM, 2000) – Graduate Course
+
+Statistics for Psychologists (WSU, 1996-1997) - Lab Sections
+
+Quantitative Methods I (WSU, 1997 – 1999) – Graduate Course, Lab Sections
+
+Quantitative Methods II (WSU, 1997 – 1999) – Graduate Course, Lab Sections
+
+Applied Statistical Methods (WSU, 1996) - Teaching Assistant
+
+Applied Multivariate Statistics (WSU, 1999 – 2000) – Graduate Course, Teaching Assistant
+
+Structural Equation Modeling (WSU, 1999 – 2000) – Graduate Course, Teaching Assistant
