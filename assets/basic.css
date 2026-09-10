@@ -39,6 +39,7 @@ body {
 }
 #TitleContent A {
     color: rgba(255,204,46);
+    text-decoration: none;
 }
 #TitleContent A:hover {
     color: rgba(255,224,66,.85);
@@ -204,6 +205,7 @@ body {
 }
 #FooterContent #address A {
     color: #fff;
+    text-decoration: none;
 }
 #FooterContent #address A:hover {
     color: #ffc82e;
