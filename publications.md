@@ -13,7 +13,7 @@
 - Lucas, T., Wendorf, C. A., İmamoğlu, E. O., Shen, J., Parkhill, M. R., Weisfeld, C. C., & Weisfeld, G. E. (2004). Marital satisfaction in four cultures as a function of homogamy, male dominance, and female attractiveness. _Sexualities, Evolution & Gender, 6,_ 97-130. [https://doi.org/10.1080/14616660412331327518](https://doi.org/10.1080/14616660412331327518)
 - Franks, M. M., Wendorf, C. A., Gonzalez, R., & Ketterer, M. (2004). Aid and influence: Health promoting exchanges of older married partners. _Journal of Social and Personal Relationships, 21,_ 431-445. [https://doi.org/10.1177%2F0265407504044839](https://doi.org/10.1177%2F0265407504044839)
 - Wendorf, C. A., Alexander, S., & Firestone, I. J. (2002). Social justice and moral reasoning: An empirical integration of two paradigms in psychological research. _Social Justice Research,15_(1), 19-39. [https://doi.org/10.1023/A:1016093614893](https://doi.org/10.1023/A:1016093614893)
-- Weisfeld, G. E., & Wendorf, C. A. (2000). The IDS and discrete emotions theory. In L. Sloman and P. Gilbert (Eds.), _Subordination and defeat: An evolutionary approach to mood disorders and their therapy_ (pp. 121-146). Lawrence Erlbaum.
+- Weisfeld, G. E., & Wendorf, C. A. (2000). The IDS and discrete emotions theory. In L. Sloman and P. Gilbert (Eds.), _Subordination and defeat: An evolutionary approach to mood disorders and their therapy_ (pp. 121-146). Lawrence Erlbaum. [https://doi.org/10.4324/9781410605207](https://doi.org/10.4324/9781410605207)
 - Wendorf, C. A. (2001). History of American morality research, 1894-1932. _History of Psychology, 4,_ 272-288. [https://dx.doi.org/10.1037/1093-4510.4.3.272](https://dx.doi.org/10.1037/1093-4510.4.3.272)
 
 ### Statistical Methods
