@@ -1,6 +1,6 @@
 # [`Craig A. Wendorf`](./README.md)
 
-## Faculty Biography
+## Academic Profile
 
 As a Central Wisconsin native, I have a long history in academia in Wisconsin. Since joining UWSP in 2001, I have served in various faculty, service, and administrative roles.
 
