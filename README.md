@@ -10,5 +10,5 @@ I’m a psychologist whose career has been shaped by a commitment to understandi
 
 ### My Materials
 
-- [Repositories](https://github.com/cwendorf?tab=repositories): All my GitHub projects
-- [Gists](https://gist.github.com/cwendorf): All my short GitHub gists
+- **[Repositories](https://github.com/cwendorf?tab=repositories):** View all my GitHub projects
+- **[Gists](https://gist.github.com/cwendorf):** View all my short GitHub gists
