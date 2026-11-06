@@ -12,3 +12,4 @@ I’m a psychologist whose career has been shaped by a commitment to understandi
 
 - **[Repositories](https://github.com/cwendorf?tab=repositories):** Explore my larger projects, including educational resources and statistical tools for psychology research and teaching.
 - **[Gists](https://gist.github.com/cwendorf):** Browse concise code snippets and small utilities for research, teaching, and data analysis.
+- **[Academic CV](./intro.md):** Browse my academic profile, teaching, publications, presentations, online resources, and student mentoring.
