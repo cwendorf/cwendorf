@@ -1,3 +1,8 @@
+[![UWSP](https://img.shields.io/badge/UWSP-512698?style=for-the-badge)](https://www.uwsp.edu/) 
+[![SBSS](https://img.shields.io/badge/SBSS-633ca3?style=for-the-badge)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/) 
+[![PSYC](https://img.shields.io/badge/PSYC-7451ad?style=for-the-badge)](https://www.uwsp.edu/academics/programs/psychology-university-of-wisconsin-stevens-point/) 
+[![Wendorf](https://img.shields.io/badge/Wendorf-8667B7?style=for-the-badge)](https://www.uwsp.edu/directory/profile/craig-wendorf/)
+
 ## About Me
 
 I’m a psychologist whose career has been shaped by a commitment to understanding people and helping others learn. I develop educational resources, statistical tools, and other materials for psychology research and teaching.
