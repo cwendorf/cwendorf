@@ -9,9 +9,9 @@ I’m a psychologist whose career has been shaped by a commitment to understandi
 
 ### My Interests
 
-- Social and Cultural Psychology: Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
-- Statistics and Research Methods: Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
-- Scholarship of Teaching and Learning: Social psychology of education; student evaluations of teaching; faculty development
+- **Social and Cultural Psychology:** Justice, fairness, and morality; social and political values; cultural and evolutionary psychology
+- **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
+- **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development
 
 ### My Materials
 
