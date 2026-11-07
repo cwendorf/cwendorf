@@ -5,10 +5,8 @@
 [![base](https://img.shields.io/badge/PSYC-ddf4ff?style=for-the-badge)](https://github.com/topics/dsitr) 
 
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![VSCodium](https://img.shields.io/badge/VSCodium-%232F80ED.svg?style=for-the-badge&logo=vscodium&logoColor=white) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![ResearchGate](https://img.shields.io/badge/researchgate-black?style=for-the-badge&logo=researchgate&logoColor=white) 
+
 
 I’m a psychologist whose career has been shaped by a commitment to understanding people and helping others learn. I develop educational resources, statistical tools, and other materials for psychology research and teaching.
 
