@@ -23,11 +23,9 @@ I’m a psychologist whose career has been shaped by a commitment to understandi
 - **[Repositories](https://github.com/cwendorf?tab=repositories):** Explore my larger projects, including educational resources and statistical tools for psychology research and teaching.
 - **[Gists](https://gist.github.com/cwendorf):** Browse concise code snippets and small utilities for research, teaching, and data analysis.
 
-<div align="center">
+---
 
-![GitHub](https://skillicons.dev/icons?i=github) 
-![VSCode](https://skillicons.dev/icons?i=vscode) 
-![Markdown](https://skillicons.dev/icons?i=md) 
-![R](https://skillicons.dev/icons?i=r)
-
-</div>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) 
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org) 
+[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
