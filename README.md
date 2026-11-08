@@ -5,7 +5,7 @@
 
 ## About Me
 
-I’m a psychologist whose career has been shaped by a commitment to understanding people and helping others learn. I develop educational resources, statistical tools, and other materials for psychology research and teaching.
+I’m a psychology faculty member committed to helping others learn. I develop educational resources, statistical tools, and other materials for psychology research and teaching.
 
 ### My Interests
 
