@@ -1,7 +1,7 @@
-[![UWSP](https://img.shields.io/badge/UWSP-512698?style=for-the-badge)](https://www.uwsp.edu/) 
-[![SBSS](https://img.shields.io/badge/SBSS-633ca3?style=for-the-badge)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/) 
-[![PSYC](https://img.shields.io/badge/PSYC-7451ad?style=for-the-badge)](https://www.uwsp.edu/academics/programs/psychology-university-of-wisconsin-stevens-point/) 
-[![Wendorf](https://img.shields.io/badge/Wendorf-8667B7?style=for-the-badge)](https://www.uwsp.edu/directory/profile/craig-wendorf/)
+[![UWSP](https://custom-icon-badges.demolab.com/badge/-UWSP-512698?style=for-the-badge&logo=organization&logoColor=white)](https://www.uwsp.edu/) 
+[![SBSS](https://custom-icon-badges.demolab.com/badge/-SBSS-633ca3?style=for-the-badge&logo=container&logoColor=white)](https://www.uwsp.edu/school-of-behavioral-and-social-sciences/) 
+[![PSYC](https://custom-icon-badges.demolab.com/badge/-PSYC-7451ad?style=for-the-badge&logo=book&logoColor=white)](https://www.uwsp.edu/academics/programs/psychology-university-of-wisconsin-stevens-point/) 
+[![Wendorf](https://custom-icon-badges.demolab.com/badge/-Wendorf-8667B7?style=for-the-badge&logo=person&logoColor=white)](https://www.uwsp.edu/directory/profile/craig-wendorf/) 
 
 ## About Me
 
