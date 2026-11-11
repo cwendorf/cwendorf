@@ -2,7 +2,7 @@
 
 ## My Project Ecosystem
 
-These four areas are connected parts of a larger effort to make psychology research and teaching more transparent, practical, and reusable. Social and cultural questions give the work its subject matter; statistical tools help investigate those questions; teaching resources make the methods approachable; and developer utilities reduce friction in building and sharing the work.
+The areas below are connected parts of a larger effort to make psychology research and teaching more transparent, practical, and reusable. Social and cultural questions give the work its subject matter; statistical tools help investigate those questions; teaching resources make the methods approachable; and developer utilities reduce friction in building and sharing the work.
 
 ### Teaching and Learning
 
