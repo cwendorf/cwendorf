@@ -15,8 +15,9 @@ I’m a psychology faculty member committed to helping others learn. I develop e
 
 ### My Materials
 
-- **[Repositories](https://github.com/cwendorf?tab=repositories):** Explore my larger projects, including educational resources and statistical tools for psychology research and teaching.
-- **[Gists](https://gist.github.com/cwendorf):** Browse concise code snippets and small utilities for research, teaching, and data analysis.
+- **[Repositories](https://github.com/cwendorf?tab=repositories):** Explore my larger projects and packages, including educational resources and statistical tools for psychology research and teaching.
+- **[Gists](https://gist.github.com/cwendorf):** Browse concise code snippets and small utilities for research, teaching, and development.
+- **[Project Ecosystem](./dev/ecosystem-overview.md):** See how my repositories and gists connect across my areas of interest.
 
 ---
 
