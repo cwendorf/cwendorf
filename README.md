@@ -13,7 +13,7 @@ I’m a psychology faculty member committed to helping others learn. I develop e
 - **Statistics and Research Methods:** Confidence intervals; effect sizes; structural equation modeling; multilevel modeling
 - **Scholarship of Teaching and Learning:** Social psychology of education; student evaluations of teaching; faculty development
 
-### My Materials
+### My Projects
 
 - **[Repositories](https://github.com/cwendorf?tab=repositories):** Browse my larger projects and packages, including code for research and teaching.
 - **[Gists](https://gist.github.com/cwendorf):** Browse concise code snippets and small utilities for research and development.
