@@ -21,7 +21,11 @@ I’m a psychology faculty member committed to helping others learn. I develop e
 
 ---
 
+My projects are built using the following tools:
+
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) 
 [![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com) 
+[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/) 
 [![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org) 
-[![R](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/) 
+[![css](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/) 
